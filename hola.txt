@@ -1,5 +1,3 @@
 hola
 
-hola macaco
-
-hola mono
+hola macaco, daniel mas respeto con GIT, es la herramienta con que se gestiona el desarrollo de linux
